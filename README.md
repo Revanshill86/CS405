@@ -1,4 +1,5 @@
 Portfolio Reflection
+
 Adopting a secure coding standard is critical for ensuring software security. It helps developers write secure code, reduces the risk of vulnerabilities and exploits, and ensures that security is considered throughout the development process. However, simply adopting a secure coding standard is not enough. It must be enforced and followed by all developers to be effective.
 Another critical aspect of software security is to integrate it into the development process from the beginning. Security should not be an afterthought or added at the end of the development cycle. Waiting until the end to address security issues can result in vulnerabilities and exploits that are difficult and costly to fix.
 Evaluation and assessment of risk and cost-benefit analysis of mitigation are critical aspects of a successful risk management strategy. In this context, risk refers to the likelihood and impact of a potential security breach, while mitigation refers to the steps taken to reduce the likelihood or impact of a security breach.
